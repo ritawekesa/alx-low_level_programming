@@ -1,0 +1,20 @@
+0x12. C - More singly linked lists
+About
+Project on singly linked lists
+
+Requirements
+Ubuntu 14.04
+gcc 4.8.4
+File Descriptions
+Mandatory
+0-print_listint.c - function that prints all the elements of a listint_t list.
+
+1-listint_len.c - functoin that returns the number of elements in a linked listint_t list.
+
+2-add_nodeint.c - function that adds a new node at the beginning of a listint_t list.
+
+3-add_nodeint_end.c - function that adds a new node at the end of a listint_t list.
+
+4-free_listint.c - function that frees a listint_t list.
+
+
